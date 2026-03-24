@@ -552,14 +552,14 @@
             "ADD_LOCATION_POPUP": {
                 "TITLE": "Legg til lokasjon",
                 "DESCRIPTION": "Skriv inn navnet på stedet du vil legge til",
-                "PLACEHOLDER": "Navn", 
+                "PLACEHOLDER": "Navn",
                 "CANCEL": "Avbryt",
                 "PROCEED": "Fortsett"
             },
             "CHANGE_NAME_POPUP": {
                 "TITLE": "Endre Navn",
                 "DESCRIPTION": "Skriv inn det nye navnet på stedet",
-                "PLACEHOLDER": "Navn", 
+                "PLACEHOLDER": "Navn",
                 "CANCEL": "Avbryt",
                 "PROCEED": "Fortsett"
             }

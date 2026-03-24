@@ -278,7 +278,7 @@
             "NO_CHATS_TEXT": "Ainda não entrou num canal. Junte/crie um premindo o sinal '+' no canto superior direito.",
             "MEMBER": "Membro",
             "MEMBERS": "Membros",
-            
+
             "USERNAME": "Username",
             "PASSWORD": "Password",
             "LOGIN": "Conectar",
@@ -1720,7 +1720,7 @@
         "MISC": {
             "VERIFIED": "A tua conta foi verificada",
             "X_PHONE": "{name}'s Telefone",
-            
+
             "LOGGED_OUT_PASSWORD": {
                 "TITLE": "Você estava desconectado",
                 "DESCRIPTION": "Foi desligado da sua conta porque a sua senha foi alterada."
@@ -1745,49 +1745,49 @@
         "LOGS": {
             "MAIL_TITLE": "Email",
             "NEW_MAIL": "{sender} enviou um mail para {recipient}",
-    
+
             "MESSAGE_TITLE": "Mensagem de texto",
             "NEW_MESSAGE": "{sender} enviou uma mensagem para {recipient}: {message}",
-    
+
             "CALL_ENDED": "Chamada terminada",
             "CALL_DESCRIPTION": "A chamada entre `{caller}` e `{callee}` que durou {duration}s acabou. Atendido: `{answered}`",
-    
+
             "NEW_SERVICE_TITLE": "Nova mensagem",
             "NEW_SERVICE_CONTENT": "{sender} enviou uma mensagem {channel}: {message}",
-    
+
             "RECEIVED_TITLE": "Recebido €{amount}",
             "PAID_TITLE": "Pago €{amount}",
             "TRANSACTION": "{number} fez uma transação de €{amount} para {company}",
-    
+
             "BOUGHT_CRYPTO": "Comprou Crypto",
             "SOLD_CRYPTO": "Vendeu crypto",
             "CRYPTO_DETAILS": "**Coin**: {coin}\n**Montante**: {amount}\n**Valor**: €{price}",
             "TRANSFERRED_CRYPTO": "Transferiu crypto",
             "TRANSFERRED_CRYPTO_DETAILS": "**Coin**: {coin}\n**Valor**: {amount}\n**Para**: {to}\n**De**: {from}",
-    
+
             "DARKCHAT_CREATED_TITLE": "Criou um canal",
             "DARKCHAT_CREATED_DESCRIPTION": "{creator} criou um canal com o nome {channel}",
             "DARKCHAT_MESSAGE_TITLE": "Nova mensagem",
             "DARKCHAT_MESSAGE_DESCRIPTION": "{sender} enviou uma mensagem em {channel}: {message}",
-    
+
             "MARKETPLACE_NEW_TITLE": "Novo anuncio",
             "MARKETPLACE_NEW_DESCRIPTION": "**Vendedor**: {seller}\n**Titulo**: {title}\n**Preço**: ${price}\n**Descrição**: {description}\n**Anexos**: {attachments}\n**ID:** {id}",
             "MARKETPLACE_DELETED": "Post apagado",
-    
+
             "YELLOWPAGES_NEW_TITLE": "Novo post",
             "YELLOWPAGES_NEW_DESCRIPTION": "**Titulo**: {title}\n**Descrição**: {description}\n**Anexos**: {attachment}\n**ID:** {id}",
             "YELLOWPAGES_DELETED": "Post apagado",
-    
+
             "LIVE_TITLE": "Live",
             "STARTED_LIVE": "{username} Começou uma live",
             "ENDED_LIVE": "{username} acabou a live",
             "ADDED_STORY": "{username} adicionou uma foto ao story",
-    
+
             "TRENDY_UPLOAD_TITLE": "Novo video",
             "TRENDY_UPLOAD_DESCRIPTION": "{username} fez upload de um novo video om {caption} e com o id {id}",
             "TRENDY_DELETE_TITLE": "Apagou um video",
             "TRENDY_DELETE_DESCRIPTION": "{username} Apagou um video com o id {id}",
-    
+
             "UPLOADED_MEDIA": "Uploaded midia",
             "UPLOADED_MEDIA_DESCRIPTION": "Tirou um {type} com o id {id}\n{link}",
             "VIDEO": "video",
